@@ -91,6 +91,9 @@ Never commit passwords, cookies, tokens, or browser session data. `.gitignore` e
 - Better synonym and partial-match handling
 - Required vs. optional skill detection
 - Historical tracking and analytics
-#command for me, cd /path/to/internshala-internship-automation && ./start_bot.sh                                                                    ## License
+
+##command for me, "cd "$HOME/.Disk_C/expetriment" && ./start_bot.sh"
+
+## License
 
 Personal project. Add a `LICENSE` file (e.g. MIT) if you want others to reuse it.
