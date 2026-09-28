@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local/session files
+.env
+.env.*
+auth.json
+
+# Local database / generated data
+data/
+output/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.html
+
+# Logs
+*.log
+
+# Local Chrome/session data
+internshala-chrome-profile/
+
+# OS files
+.DS_Store
